@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: radial-gradient(ellipse at center, #000 0%, #0a0a0a 100%);
+  font-family: Arial, sans-serif;
+}
+
+canvas {
+  display: block;
+}
+
+.dg.ac {
+  z-index: 10 !important;
+}
